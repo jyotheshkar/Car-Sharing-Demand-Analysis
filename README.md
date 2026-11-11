@@ -1,5 +1,21 @@
 # Car-Sharing Demand Database & Data Analytics
 
+## Architecture and maintenance
+
+[Technical architecture, source boundaries, scalability decisions and verification](docs/ARCHITECTURE_MAINTENANCE.md) documents the current implementation and its limits. Maintenance dated 11 November 2026 is separate from the original study or project work.
+
+### Reproducible read-only quick start
+
+```bash
+git clone https://github.com/jyotheshkar/Car-Sharing-Demand-Analysis.git
+cd Car-Sharing-Demand-Analysis
+python scripts/inspect_database.py
+python -m unittest discover -s tests -v
+```
+
+No external packages are required for the inspection path. Copy an exact table name from the inventory and export with `python scripts/inspect_database.py --table TABLE --output sample.csv --limit 1000`. Output must be a new file. Original notebooks need additional datasets and dependencies; keep the supplied database unchanged.
+
+
 A comprehensive end-to-end project demonstrating how raw CSV data can be **transformed** into actionable insights using **SQLite database management**, **data preprocessing**, **statistical analysis**, and **machine learning** models (ARIMA, Random Forest, DNN, and clustering).
 
 ---
@@ -54,5 +70,5 @@ This project analyzes a **car-sharing dataset** collected hourly from January 20
 ## Installation & Setup
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/<YourUsername>/<RepoName>.git
-   cd <RepoName>
+   git clone https://github.com/jyotheshkar/Car-Sharing-Demand-Analysis.git
+   cd Car-Sharing-Demand-Analysis
