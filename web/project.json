@@ -26,5 +26,5 @@
   "contract": "Make timestamps, demand units, temperature categories and missing-value rules explicit. Validate join keys and row counts. Evaluate forecasting chronologically and compare with a simple seasonal baseline.",
   "limits": "The browser workbench filters eight invented rows and reports their arithmetic mean. It is a transparent SQL-style illustration, not a query against the repository database or evidence of forecast accuracy.",
   "demo": "dadb",
-  "github": "https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University"
+  "github": "https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University-2024"
 }

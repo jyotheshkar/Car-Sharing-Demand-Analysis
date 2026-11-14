@@ -1,6 +1,6 @@
-# Data Analytics and Databases - CSC-40054 - Keele University
+# Data Analytics and Databases - CSC-40054 - Keele University - 2024
 
-[![Repository checks](https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University/actions/workflows/database-contracts.yml/badge.svg)](https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University/actions/workflows/database-contracts.yml) ![Verified module mark: 89%](https://img.shields.io/badge/Verified_module_mark-89%25-1769aa)
+[![Repository checks](https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University-2024/actions/workflows/database-contracts.yml/badge.svg)](https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University-2024/actions/workflows/database-contracts.yml) ![Verified module mark: 89%](https://img.shields.io/badge/Verified_module_mark-89%25-1769aa)
 
 Turn a car-sharing dataset into a relational database, then explore demand through SQL, preprocessing and predictive analytics.
 
@@ -8,10 +8,13 @@ Turn a car-sharing dataset into a relational database, then explore demand throu
 |---|---|
 | Programme | MSc Computer Science, Keele University |
 | Academic year | 2023/24 |
+| Project year | 2024 |
 | Final module mark | **89%** |
 | Credit | 15 CATS |
 | Original project | Car-sharing demand database and analytics |
 | Original delivery | Python notebooks + SQLite |
+
+The **2024** repository suffix identifies the original project year within academic year **2023/24**; later portfolio maintenance retains its own dates.
 
 The mark was verified against the final academic transcript, page 2, issued 15 January 2025. It applies to the original module assessment. Portfolio maintenance and the web edition dated **14 November 2026** were completed later with AI assistance and were not assessed by Keele.
 
