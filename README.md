@@ -42,6 +42,6 @@ Original application files, GUI structure and data schemas remain in the reposit
 - [System and deployment architecture, decisions, contracts and validation](docs/ENGINEERING.md)
 - [Web edition and verification](web/README.md)
 
-[Original supporting coursework](original-work/DADB/) has been consolidated into this repository with a file-level import provenance record. The source repository remains available pending your deletion decision.
+[Original database coursework](original-work/DADB/) and [booking-analytics learning material](original-work/Data-Analytics/) are consolidated here. [Migration evidence](docs/migration-evidence/README.md) includes SHA-verified snapshots, all branch-reachable historical file contents and commit metadata, and source PR discussions. The API archives preserve evidence and file revisions; they are not imported Git ancestry. Booking analytics is not claimed as assessed CSC-40054 coursework.
 
 University-authored documents retain their own notices. The repository’s code licence does not automatically license third-party teaching materials or datasets.

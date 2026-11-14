@@ -1,6 +1,7 @@
 {
   "source_repository": "jyotheshkar/DADB",
-  "source_tree_sha": "8b77128c3d0066627cf0f994a62fbd5f11aa65e7",
+  "source_commit_sha": "8b77128c3d0066627cf0f994a62fbd5f11aa65e7",
+  "source_tree_sha": "b6a616d14c94966dc6a401f601300ba30f5fcd13",
   "imported_at": "2026-11-14",
   "files": [
     {
@@ -74,5 +75,6 @@
       "size": 716
     }
   ],
-  "note": "Byte-identical snapshot preserving original work. Original repository and history remain until user confirms deletion."
+  "history_archive": "../../docs/migration-evidence/DADB-history-20261114.json",
+  "note": "Complete byte-identical main snapshot was already present; verified all14 files. Maintenance-branch README variant is preserved separately. API history archive retains file content and metadata, not native Git ancestry."
 }
