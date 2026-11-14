@@ -1,3 +1,5 @@
+# Data Analytics and Databases - CSC-40054 - Keele University
+
 # Car-Sharing Demand Database & Data Analytics
 
 ## Architecture and maintenance
@@ -72,3 +74,7 @@ This project analyzes a **car-sharing dataset** collected hourly from January 20
    ```bash
    git clone https://github.com/jyotheshkar/Car-Sharing-Demand-Analysis.git
    cd Car-Sharing-Demand-Analysis
+
+## University module reference
+
+Official module title and code: [Keele University MSc Computer Science programme specification, 2023/24](https://www.keele.ac.uk/media/keeleuniversity/sas/qa/pgtprogrammespecifications/pgtprogspecs2023-24/Programme-Specification-Computer-Science-Taught-Masters-2023-24.pdf). Original project material and later maintenance remain distinguished below.
