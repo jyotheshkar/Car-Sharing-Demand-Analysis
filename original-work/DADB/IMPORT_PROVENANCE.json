@@ -1,0 +1,78 @@
+{
+  "source_repository": "jyotheshkar/DADB",
+  "source_tree_sha": "8b77128c3d0066627cf0f994a62fbd5f11aa65e7",
+  "imported_at": "2026-11-14",
+  "files": [
+    {
+      "path": ".github/workflows/maintenance.yml",
+      "sha": "4757c375c4b770f602fbc694c504762df83daf45",
+      "size": 534
+    },
+    {
+      "path": "DB01.py",
+      "sha": "8401e7964a523db57686673e5254b974e8e543d6",
+      "size": 1801
+    },
+    {
+      "path": "DB02.py",
+      "sha": "243e3e913ef01587f8575271c0796b49bbfa5fc2",
+      "size": 1507
+    },
+    {
+      "path": "DB03.py",
+      "sha": "edba44ebfc8e3bcc1056e289af5d0cd7c66a1195",
+      "size": 11269
+    },
+    {
+      "path": "DB04.py",
+      "sha": "0147147bf93a6fd86528e597de1b93a3cb549ee9",
+      "size": 1375
+    },
+    {
+      "path": "DB05.py",
+      "sha": "ea6c051ca20afad6aeda2b8eb36b3484ad3539df",
+      "size": 1732
+    },
+    {
+      "path": "DB06.py",
+      "sha": "7e3cd3e54ce82ff3b083279b4bcab0ffa360673f",
+      "size": 1003
+    },
+    {
+      "path": "DB07.py",
+      "sha": "bd7c83d7508cb6360ff9f65b1548ffe472522c02",
+      "size": 10879
+    },
+    {
+      "path": "README.md",
+      "sha": "70624ffb5908d0a17153e4e071301ececd288796",
+      "size": 728
+    },
+    {
+      "path": "Testing.py",
+      "sha": "ddb122842163285240338842104a4faeb37cf52b",
+      "size": 782
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "sha": "fef030465875cb319929d7a0d8a202b3a8bb7e7c",
+      "size": 3426
+    },
+    {
+      "path": "read me",
+      "sha": "aa79ba55f02b4f66e188255bc4eaedc433ae2670",
+      "size": 9
+    },
+    {
+      "path": "requirements.txt",
+      "sha": "d1fbf4f75442e210618a43b510cdddc7faacdb37",
+      "size": 15
+    },
+    {
+      "path": "tests/test_quality.py",
+      "sha": "1b4677d98997eec8cd35dbff0e819180a2fde979",
+      "size": 716
+    }
+  ],
+  "note": "Byte-identical snapshot preserving original work. Original repository and history remain until user confirms deletion."
+}
