@@ -1,0 +1,30 @@
+{
+  "code": "CSC-40054",
+  "course_name": "Data Analytics and Databases",
+  "mark": 89,
+  "credits": 15,
+  "project": "Car-sharing demand database and analytics",
+  "skills": [
+    "Python",
+    "SQLite",
+    "SQL",
+    "data preprocessing",
+    "forecasting",
+    "classification",
+    "clustering"
+  ],
+  "surface": "Python notebooks + SQLite",
+  "summary": "Turn a car-sharing dataset into a relational database, then explore demand through SQL, preprocessing and predictive analytics.",
+  "flow": [
+    "CSV source data",
+    "Typed cleaning and validation",
+    "SQLite tables and queries",
+    "Notebooks and model experiments"
+  ],
+  "decision": "Preserve the original SQLite file and inspect it read-only. Write derived datasets and exports to separate files so a reproducible analysis cannot silently overwrite its source.",
+  "tradeoff": "SQLite offers a portable, inspectable coursework database with no server to operate. Multiple concurrent writers or hosted APIs would require a separate operational database and migration strategy.",
+  "contract": "Make timestamps, demand units, temperature categories and missing-value rules explicit. Validate join keys and row counts. Evaluate forecasting chronologically and compare with a simple seasonal baseline.",
+  "limits": "The browser workbench filters eight invented rows and reports their arithmetic mean. It is a transparent SQL-style illustration, not a query against the repository database or evidence of forecast accuracy.",
+  "demo": "dadb",
+  "github": "https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University"
+}
