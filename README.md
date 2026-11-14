@@ -1,5 +1,7 @@
 # Data Analytics and Databases - CSC-40054 - Keele University
 
+[![Repository checks](https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University/actions/workflows/database-contracts.yml/badge.svg)](https://github.com/jyotheshkar/Data-Analytics-and-Databases-CSC-40054-Keele-University/actions/workflows/database-contracts.yml) ![Verified module mark: 89%](https://img.shields.io/badge/Verified_module_mark-89%25-1769aa)
+
 Turn a car-sharing dataset into a relational database, then explore demand through SQL, preprocessing and predictive analytics.
 
 | Academic record | Verified value |
@@ -40,6 +42,6 @@ Original application files, GUI structure and data schemas remain in the reposit
 - [System and deployment architecture, decisions, contracts and validation](docs/ENGINEERING.md)
 - [Web edition and verification](web/README.md)
 
-Supporting original repositories should be preserved under `original-work/`: DADB.
+[Original supporting coursework](original-work/DADB/) has been consolidated into this repository with a file-level import provenance record. The source repository remains available pending your deletion decision.
 
 University-authored documents retain their own notices. The repository’s code licence does not automatically license third-party teaching materials or datasets.
